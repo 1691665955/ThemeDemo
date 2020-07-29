@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<dict>
+		<key>KThemeColor</key>
+		<string>#000000</string>
+		<key>KBackgroundColor</key>
+		<string>#000000</string>
+		<key>KNavigationBarBackgroundColor</key>
+		<string>#131313</string>
+		<key>KNavigationBarTextColor</key>
+		<string>#ffffff</string>
+		<key>KTabBarBackgroundColor</key>
+		<string>#131313</string>
+		<key>KTabBarNormalColor</key>
+		<string>#ffffff</string>
+		<key>KTabBarSelectedColor</key>
+		<string>#1296db</string>
+		<key>KTitleColor</key>
+		<string>#ffffff</string>
+		<key>KSubTitleColor</key>
+		<string>#eeeeee</string>
+		<key>KLineColor</key>
+		<string>#ffffff</string>
+	</dict>
+</dict>
+</plist>

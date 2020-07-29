@@ -1,0 +1,62 @@
+{
+  "images" : [
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneNotification_20pt@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneNotification_20pt@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "20x20"
+    },
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneSpootlight5_29pt@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneSpootlight5_29pt@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "29x29"
+    },
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneSpootlight7_40pt@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneSpootlight7_40pt@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "40x40"
+    },
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneApp_60pt@2x.png",
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "u=2226725438,2219684375&fm=27&gp=0iPhoneApp_60pt@3x.png",
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "size" : "60x60"
+    },
+    {
+      "filename" : "1.png",
+      "idiom" : "ios-marketing",
+      "scale" : "1x",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
