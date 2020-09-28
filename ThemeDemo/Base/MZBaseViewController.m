@@ -19,6 +19,7 @@
     [super viewDidLoad];
     self.view.backgroundColor = [[MZThemeManage shareInstance] colorNamed:KBackgroundColor];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(themeUpdate) name:MZNotificationNameThemeUpdate object:nil];
+    [self themeUpdate];
 }
 
 - (void)dealloc {
